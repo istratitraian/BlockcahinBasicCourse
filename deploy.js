@@ -8,7 +8,7 @@ const {
 
 //my Chrome mnemonic
 const provider = new HDWalletPorvider(
-  'december pony gun slab shrimp wine ball dutch hat cinnamon hundred track',
+  'MNEMONIC here',
   'https://rinkeby.infura.io/eIwwjgj5xmZFQyh0450I'
 );
 
