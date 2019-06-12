@@ -9,7 +9,7 @@ const {
 //my Chrome mnemonic
 const provider = new HDWalletPorvider(
   'MNEMONIC here',
-  'https://rinkeby.infura.io/eIwwjgj5xmZFQyh0450I'
+  'https://rinkeby.infura.io/__apiID__'
 );
 
 
