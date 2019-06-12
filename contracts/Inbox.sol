@@ -18,6 +18,4 @@ contract Inbox{
         return message;
     } */
 
-    //https://github.com/istratitraian/Blockcahin.git
-
 }
